@@ -1,0 +1,15 @@
+C:\Users\work\pcs\ShirtProj\bin\Debug\net6.0\ShirtProj.exe
+C:\Users\work\pcs\ShirtProj\bin\Debug\net6.0\ShirtProj.deps.json
+C:\Users\work\pcs\ShirtProj\bin\Debug\net6.0\ShirtProj.runtimeconfig.json
+C:\Users\work\pcs\ShirtProj\bin\Debug\net6.0\ShirtProj.dll
+C:\Users\work\pcs\ShirtProj\bin\Debug\net6.0\ShirtProj.pdb
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.csproj.AssemblyReference.cache
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.AssemblyInfoInputs.cache
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.AssemblyInfo.cs
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.csproj.CoreCompileInputs.cache
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.dll
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\refint\ShirtProj.dll
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.pdb
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ShirtProj.genruntimeconfig.cache
+C:\Users\work\pcs\ShirtProj\obj\Debug\net6.0\ref\ShirtProj.dll
