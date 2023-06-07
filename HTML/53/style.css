@@ -1,0 +1,32 @@
+nav {
+    border: 2px solid #333;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    display: inline;
+    margin: 20px;
+    text-decoration: none;
+    color: #333;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+body {
+    background-color: #808080;
+    /* Grey color */
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: darkgray;
+    text-decoration: none;
+}
+
+a:hover {
+    color:lightgray;
+}
+img{
+    border-radius: 10px;
+}
