@@ -1,4 +1,4 @@
-nav {
+nav  {
     border: 2px solid #333;
     border-radius: 8px;
     background-color: #f9f9f9;
@@ -8,19 +8,19 @@ nav {
     color: #333;
     padding-right: 20px;
     padding-left: 20px;
-    background-color: #333;
+    background-color: darkgrey;
     color: #fff;
 }
 
 body {
-    background-color: #808080;
+    background-color:#C0C0C0;
     /* Grey color */
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
 a {
-    color: darkgray;
+    color: black;
     text-decoration: none;
 }
 
