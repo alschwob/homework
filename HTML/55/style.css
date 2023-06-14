@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+
+}
+body{
+    background-color: white;
+ max-width:1070px;
+ margin:auto;
+}
+.box{
+    background-color: yellow;
+    width: 300px;
+    height: 200px;
+    margin: 27px;
+    border: 1px black solid;
+    border-radius:9px ;
+    text-align:center;
+    padding-top: 95px;
+    padding-bottom: 95px;
+    box-sizing: border-box;
+    display:inline-block;
+
+}
