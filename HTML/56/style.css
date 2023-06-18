@@ -1,0 +1,78 @@
+#copy {
+    font-style: italic;
+    font-weight: 400;
+    font-size: x-large;
+    /*clear: left;*/
+}
+
+
+body {
+    background-image: radial-gradient( #a9b1cb, #979fb9, #858ea7, #737d96, #626d85, #5f6e85, #5d7084, #5c7183, #6b8491, #7e979e, #92a9ac, #a9bcbb);
+    /* Grey color */
+
+   /* background:linear-gradient(90deg, rgba(150, 150, 137, 1) 0%, rgba(158, 199, 200, 0.47) 23%, rgba(130, 238, 223, 1) 45%, rgba(155, 180, 177, 1) 76%, rgba(215, 230, 228, 1) 97%);*/
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100%;
+
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgray;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.menuLayout {
+    width: 100%;
+}
+
+.navbar {
+    border: 2px solid #333;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    display: inline;
+    margin: 20px;
+    text-decoration: none;
+    color: #333;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: darkgrey;
+    color: #fff;
+}
+
+.menuItem {
+    border: black 2px solid;
+    border-radius: 9px;
+    width: 50%;
+    margin-top: 2rem;
+    padding: 1rem;
+    overflow-y: auto;
+    letter-spacing: 1px;
+    box-shadow: 20px 20px rgba(0, 0, 0, .25);
+    display: inline-block;
+}
+
+.drinksMenu {
+    border: black 2px solid;
+    border-radius: 9px;
+    width: 50%;
+    margin-top: 2rem;
+    padding: 1rem;
+    overflow-y: auto;
+    letter-spacing: 1px;
+    box-shadow: 20px 20px rgba(0, 0, 0, .25);
+    display: inline-block;
+}
+.bottom{margin-top: 400px;}
