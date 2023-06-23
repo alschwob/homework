@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            width: 80%;
+            margin: auto;
+        }
+
+        input {
+            display: block;
+            width: 100%;
+            margin-bottom: .5em;
+        }
+    </style>
+</head>
+
+<body>
+    <form method="POST">
+        <label>
+            First Name:
+            <input type="text" name="firstName"  placeholder="First name" minlength="3" maxlength="20" required />
+        </label>
+
+        <label >
+        <input type="text" name="lastName" placeholder="enter last name" minlength="3" maxlength="20" required />
+        </label>
+        
+
+
+
+
+
+        <label>
+            Email:
+            <input type="email" name="email" />
+        </label>
+
+        <label for="phone">Enter a phone number:</label><br><br>
+        <input type="tel" id="phone" name="phone" placeholder=" Phone number" pattern="[0-9]{3}[0-9]{3}[0-9]{4}"
+            required>
+        <small>Format: 2345678999</small><br><br>
+
+        <label for="message">Comments:</label>
+        <textarea id="message" name="Comments" maxlength="500" rows="4" cols="50" required></textarea>
+        <br><br><br><br>
+
+
+
+        <input type="submit"  />
+    </form>
+</body>
+
+</html>
