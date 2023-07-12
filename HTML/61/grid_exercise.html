@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>plus sign design</title>
+  <style>
+    body {
+      display: grid;
+      
+      grid-template: 250px 50px 50px 250px / 250px 50px 50px 250px;
+      grid-template-areas:
+            ". red1 red1 . "
+            "green  red2 purple2   purple "
+            "green green2 brown2 purple "
+            ". brown  brown . ";
+
+
+      justify-content: center;
+    }
+
+
+    div:nth-child(1) {
+      background-color: red;
+        grid-area:red1;
+    }
+
+    div:nth-child(2) {
+      background-color: purple;
+      grid-area:purple;
+    }
+
+    div:nth-child(3) {
+      background-color: brown;
+      grid-area:brown;
+    }
+
+    div:nth-child(4) {
+      background-color: green;
+      grid-area:green;
+    
+    }
+
+    div:nth-child(5) {
+      background-color: red;
+grid-area:red2;
+    }
+    div:nth-child(6) {
+      background-color:purple;
+grid-area:purple2;
+    }
+    div:nth-child(7) {
+      background-color:brown;
+grid-area:brown2;
+    }
+    div:nth-child(8) {
+      background-color:green;
+grid-area:green2;
+    }
+  </style>
+</head>
+<body>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  
+</body>
+</html>
