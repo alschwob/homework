@@ -22,15 +22,9 @@
         }
         div{
                 background-color:orange;
-            }
-        grid-template-areas:
-            "a"
-            "b"
-            "c"
-            "d"
-            "e"
-            "f"
-            "g";
+                
+        }
+       
           
            
 div:nth-child(1){
@@ -60,14 +54,18 @@ grid-area:g;
                 background-color: green;
             
             }
-            grid-template-areas:
+          body{ grid-template-areas:
             "a a"
             "b c"
             "d e" 
-            "f g";
+            "f g"}
           
         }
         @media (1000px <= width) {
+            body{ grid-template-areas:
+            "a a b c"
+            "d e f g"
+            }
             div{
                 background-color: red;
             }
@@ -83,4 +81,4 @@ grid-area:g;
     <div>6</div>
     <div>7</div>
 </body>
-</html>
+</html> 
